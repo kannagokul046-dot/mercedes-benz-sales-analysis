@@ -32,3 +32,19 @@ mercedes_benz_sales_analysis.ipynb – Python analysis
 mercedes_benz_sales_dashboard.pbix – Power BI dashboard  
 
 mercedes_benz_dashboard_preview.png – dashboard image
+
+
+
+## Key Insights
+
+- Total Revenue: **83 Billion**
+- Average Vehicle Price: **68.11K**
+- Top Selling Model: **GLC**
+- Petrol vehicles dominate vehicle sales
+
+- ## Project Structure
+
+- `mercedes_benz_sales_analysis.ipynb` → Python data analysis
+- `mercedes_benz_sql_queries.sql` → SQL queries used for analysis
+- `mercedes_benz_dashboard_preview.png` → Dashboard screenshot
+- `README.md` → Project documentation
