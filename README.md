@@ -7,6 +7,14 @@ Data analytics project analyzing Mercedes-Benz vehicle sales using **SQL, Python
 ## Project Overview
 This project analyzes Mercedes-Benz vehicle sales using SQL, Python, and Power BI.
 
+## Project Workflow
+
+1. Data Cleaning using Python
+2. SQL queries for data exploration
+3. Data visualization using Power BI
+4. Dashboard creation for business insights
+
+5. 
 ## Tools Used
 - SQL Server
 - Python (Pandas)
@@ -50,4 +58,5 @@ mercedes_benz_dashboard_preview.png – dashboard image
 - `mercedes_benz_sql_queries.sql` → SQL queries used for analysis
 - `mercedes_benz_dashboard_preview.png` → Dashboard screenshot
 - `README.md` → Project documentation
+
 
