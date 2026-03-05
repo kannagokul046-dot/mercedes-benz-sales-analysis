@@ -1,6 +1,8 @@
-![Mercedes Dashboard](mercedes_benz_dashboard_preview.png)
+# 🚗 Mercedes-Benz Sales Analytics Dashboard
 
-# Mercedes-Benz Sales Analytics Dashboard
+Data analytics project analyzing Mercedes-Benz vehicle sales using **SQL, Python, and Power BI**.
+
+![Mercedes Dashboard](mercedes_benz_dashboard_preview.png)
 
 ## Project Overview
 This project analyzes Mercedes-Benz vehicle sales using SQL, Python, and Power BI.
@@ -48,3 +50,4 @@ mercedes_benz_dashboard_preview.png – dashboard image
 - `mercedes_benz_sql_queries.sql` → SQL queries used for analysis
 - `mercedes_benz_dashboard_preview.png` → Dashboard screenshot
 - `README.md` → Project documentation
+
