@@ -1,3 +1,5 @@
+![Mercedes Dashboard](mercedes_benz_dashboard_preview.png)
+
 # Mercedes-Benz Sales Analytics Dashboard
 
 ## Project Overview
@@ -28,4 +30,5 @@ mercedes_benz_sales_dataset.csv – dataset
 mercedes_benz_sql_queries.sql – SQL queries  
 mercedes_benz_sales_analysis.ipynb – Python analysis  
 mercedes_benz_sales_dashboard.pbix – Power BI dashboard  
+
 mercedes_benz_dashboard_preview.png – dashboard image
